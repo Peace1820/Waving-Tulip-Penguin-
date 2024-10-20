@@ -1,1 +1,7 @@
-Most of the HTML and CSS code here was taken from FreeCodeCamp's JavaScript course. My additions includes the tulip, the clouds in the background and the snow effect, both of which were taken from CodePen.
+Most of the code (the penguin and the background) was from FreeCodeCamp. 
+  The clouds and snow were taken from CodePen sources.
+  The only addition I made was the Tulip itself and the penguin scaling when you click on it (because my humor is pretty broken).
+    Clouds: https://codepen.io/jeyakarthika/pen/AappZV
+    Snow Effects: https://codepen.io/codeconvey/pen/xRzQay
+
+The dog belongs to someone very special to me. This was dedicated to her but unfortunately, things didn't work out as well as we had liked. At least, I was able to immortalize (?) my care for her through the web.  
