@@ -1,0 +1,1 @@
+Most of the HTML and CSS code here was taken from FreeCodeCamp's JavaScript course. My additions includes the tulip, the clouds in the background and the snow effect, both of which were taken from CodePen.
